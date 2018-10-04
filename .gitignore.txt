@@ -1,4 +1,4 @@
-bin/
+App/bin/
 obj/
-Properties/
+App/Properties/
 .vs/
